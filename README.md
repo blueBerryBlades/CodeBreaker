@@ -1,3 +1,2 @@
 # CodeBreaker
-Learning Java/JavaFX
-Recreating one of my favourite games
+Learning Java/JavaFX by recreating one of my favourite games
